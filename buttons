@@ -1,0 +1,10 @@
+# Very simple deployment of a Windows VM
+
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/PUT YOUR LINK HERE">
+    <img src="http://azuredeploy.net/deploybutton.png"/>
+</a>
+
+<a href="http://armviz.io/#/?load=PUT YOUR LINK HERE" target="_blank">
+    <img src="http://armviz.io/visualizebutton.png"/>
+</a>
+
